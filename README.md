@@ -111,3 +111,5 @@ Run Linux Kernel cleanfile whitespace sanitiser on all files.
 Note
 -------
 PHP: v7.3.20
+Zend engine: v3.3.20
+Lighttpd: 1.4.55

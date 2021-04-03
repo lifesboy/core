@@ -107,3 +107,7 @@ make sweep
 ----------
 
 Run Linux Kernel cleanfile whitespace sanitiser on all files.
+
+Note
+-------
+PHP: v7.3.20
